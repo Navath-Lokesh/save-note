@@ -4,7 +4,7 @@ export const NavbarData = [
     path: "/",
   },
   {
-    title: "Pastes",
+    title: "My Note's",
     path: "/pastes",
   },
 ];
